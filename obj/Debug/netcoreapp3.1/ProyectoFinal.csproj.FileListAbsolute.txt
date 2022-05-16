@@ -1,0 +1,14 @@
+C:\Users\oem\source\repos\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.exe
+C:\Users\oem\source\repos\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.deps.json
+C:\Users\oem\source\repos\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.runtimeconfig.json
+C:\Users\oem\source\repos\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.runtimeconfig.dev.json
+C:\Users\oem\source\repos\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.dll
+C:\Users\oem\source\repos\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.pdb
+C:\Users\oem\source\repos\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\oem\source\repos\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oem\source\repos\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\oem\source\repos\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.AssemblyInfo.cs
+C:\Users\oem\source\repos\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\oem\source\repos\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.dll
+C:\Users\oem\source\repos\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.pdb
+C:\Users\oem\source\repos\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.genruntimeconfig.cache
